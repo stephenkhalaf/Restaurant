@@ -37,7 +37,7 @@ Installing and setting up your app.
 
 3. Database
     ```sh
-      Import the chat.sql database into phpmyadmin
+      Import the wow_food.sql database into phpmyadmin
     ```
 
 ## Usage
